@@ -1,7 +1,7 @@
-## Ameed - Senior Frontend Engineer 👨‍💻
+# Ameed - Senior Frontend Engineer 👨‍💻
 👋 Hello, I'm Ameed, a Senior Frontend Engineer with a passion for crafting exceptional digital experiences. With over 8 years of dedicated industry expertise, I have honed my skills in creating innovative solutions using cutting-edge technologies.
 
-# 🔧 Technologies & Tools
+## 🔧 Technologies & Tools
 My toolkit includes a diverse range of technologies, including ReactJS, VueJS, HTML5, CSS3, and JavaScript. I am adept at crafting seamless user interfaces that combine aesthetics with functionality. My proficiency extends to frameworks like NextJS and Gatsby, enabling me to build performant and dynamic web applications.
 
 ## 📱 UI/UX Design
