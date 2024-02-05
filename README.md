@@ -1,17 +1,13 @@
-# Ameed - Senior Frontend Engineer 👨‍💻
-👋 Hello, I'm Ameed, a Senior Frontend Engineer with a passion for crafting exceptional digital experiences. With over 8 years of dedicated industry expertise, I have honed my skills in creating innovative solutions using cutting-edge technologies.
+# Ameed - Senior Full Stack Engineer 👨‍💻
+👋 Hello, I'm Ameed, a Senior Full Stack Engineer with 8+ years of hands-on experience. Proficient in cutting-edge front-end tech like ReactJs, Angular, and VueJs, I craft intuitive, responsive, and visually appealing user interfaces.
 
-## 🔧 Technologies & Tools
-My toolkit includes a diverse range of technologies, including ReactJS, VueJS, HTML5, CSS3, and JavaScript. I am adept at crafting seamless user interfaces that combine aesthetics with functionality. My proficiency extends to frameworks like NextJS and Gatsby, enabling me to build performant and dynamic web applications.
+💻 On the Back-end, I architect robust solutions using C# and Azure. My expertise in Typescript bridges the gap between front-end and back-end, ensuring a cohesive development process.
 
-## 📱 UI/UX Design
-Beyond engineering, I am also a proficient UI/UX designer for web and mobile applications. By melding user-centered design principles with technical prowess, I strive to deliver intuitive and visually engaging experiences that captivate users and drive meaningful engagement.
+🧪 Strong focus on testing and quality assurance; adept at Postman for API testing and Swagger for seamless integration. Agile project manager experienced in Jira, with expertise in efficient code reviews on Bitbucket and GitHub.
 
-## 🎯 Commitment to Excellence
-My commitment to excellence is underpinned by a strong foundation in problem-solving and a dedication to staying current with industry trends. I'm a collaborative team player, thriving in an environment where creative thinking and innovative solutions are valued.
+🚀 My journey in tech has equipped me with the experience and versatility needed to excel in diverse environments. Beyond tech, I've honed leadership skills as a hands-on Team Lead.
 
-## 🚀 Passion for Impact
-Whether I'm architecting intricate front-end solutions or conceptualizing design elements, I am driven by a singular goal: to create digital products that resonate and leave a lasting impact.
+🔗 Let's connect and build something great together!
 
 Let's collaborate and build something amazing together! 🌐✨
 
